@@ -1,0 +1,9 @@
+{
+  "name": "angular-architecture-skills",
+  "version": "0.1.0",
+  "author": "Gergely Szerovay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gergelyszerovay/angular-architecture-skills.git"
+  }
+}
